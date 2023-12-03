@@ -1,0 +1,122 @@
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB\bin\Debug\PostgreDB.exe.config
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB\bin\Debug\App.config
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB\bin\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB\bin\Debug\PostgreDB.pdb
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB\obj\Debug\PostgreDB.csprojResolveAssemblyReference.cache
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB\obj\Debug\PostgreDB.frmMain.resources
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB\obj\Debug\PostgreDB.Properties.Resources.resources
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB\obj\Debug\PostgreDB.csproj.GenerateResource.Cache
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB\obj\Debug\PostgreDB.exe.licenses
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB\obj\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB\obj\Debug\PostgreDB.pdb
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束 commit\bin\Debug\PostgreDB.exe.config
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束 commit\obj\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束 commit\obj\Debug\PostgreDB.pdb
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束 commit\bin\Debug\App.config
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束 commit\bin\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束 commit\bin\Debug\PostgreDB.pdb
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束 commit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束 commit\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束 commit\obj\Debug\PostgreDB.csprojResolveAssemblyReference.cache
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束 commit\obj\Debug\PostgreDB.frmMain.resources
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束 commit\obj\Debug\PostgreDB.Properties.Resources.resources
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束 commit\obj\Debug\PostgreDB.csproj.GenerateResource.Cache
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束 commit\obj\Debug\PostgreDB.exe.licenses
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束才 commit\bin\Debug\PostgreDB.exe.config
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束才 commit\obj\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束才 commit\obj\Debug\PostgreDB.pdb
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束才 commit\bin\Debug\App.config
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束才 commit\bin\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束才 commit\bin\Debug\PostgreDB.pdb
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束才 commit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束才 commit\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束才 commit\obj\Debug\PostgreDB.csprojResolveAssemblyReference.cache
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束才 commit\obj\Debug\PostgreDB.frmMain.resources
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束才 commit\obj\Debug\PostgreDB.Properties.Resources.resources
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束才 commit\obj\Debug\PostgreDB.csproj.GenerateResource.Cache
+C:\Users\jason.yu1204\Documents\Visual Studio 2015\Projects\PostgreDB 操作範例 - 結束才 commit\obj\Debug\PostgreDB.exe.licenses
+C:\Users\jason.yu1204\Desktop\PostgreDB example\bin\Debug\PostgreDB.exe.config
+C:\Users\jason.yu1204\Desktop\PostgreDB example\obj\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Desktop\PostgreDB example\obj\Debug\PostgreDB.pdb
+C:\Users\jason.yu1204\Desktop\PostgreDB example\obj\Debug\PostgreDB.csprojResolveAssemblyReference.cache
+C:\Users\jason.yu1204\Desktop\PostgreDB example\obj\Debug\PostgreDB.frmMain.resources
+C:\Users\jason.yu1204\Desktop\PostgreDB example\obj\Debug\PostgreDB.Properties.Resources.resources
+C:\Users\jason.yu1204\Desktop\PostgreDB example\obj\Debug\PostgreDB.csproj.GenerateResource.Cache
+C:\Users\jason.yu1204\Desktop\PostgreDB example\obj\Debug\PostgreDB.exe.licenses
+C:\Users\jason.yu1204\Desktop\PostgreDB example\bin\Debug\App.config
+C:\Users\jason.yu1204\Desktop\PostgreDB example\bin\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Desktop\PostgreDB example\bin\Debug\PostgreDB.pdb
+C:\Users\jason.yu1204\Desktop\PostgreDB example\bin\Debug\Npgsql.xml
+C:\Users\jason.yu1204\Desktop\PostgreDB example\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\OQuery(Jason)\bin\Debug\App.config
+C:\Users\Administrator\Desktop\OQuery(Jason)\bin\Debug\PostgreDB.exe.config
+C:\Users\Administrator\Desktop\OQuery(Jason)\bin\Debug\PostgreDB.exe
+C:\Users\Administrator\Desktop\OQuery(Jason)\bin\Debug\PostgreDB.pdb
+C:\Users\Administrator\Desktop\OQuery(Jason)\bin\Debug\Npgsql.xml
+C:\Users\Administrator\Desktop\OQuery(Jason)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\OQuery(Jason)\obj\Debug\PostgreDB.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\OQuery(Jason)\obj\Debug\PostgreDB.frmMain.resources
+C:\Users\Administrator\Desktop\OQuery(Jason)\obj\Debug\PostgreDB.Properties.Resources.resources
+C:\Users\Administrator\Desktop\OQuery(Jason)\obj\Debug\PostgreDB.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\OQuery(Jason)\obj\Debug\PostgreDB.exe.licenses
+C:\Users\Administrator\Desktop\OQuery(Jason)\obj\Debug\PostgreDB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OQuery(Jason)\obj\Debug\PostgreDB.csproj.CopyComplete
+C:\Users\Administrator\Desktop\OQuery(Jason)\obj\Debug\PostgreDB.exe
+C:\Users\Administrator\Desktop\OQuery(Jason)\obj\Debug\PostgreDB.pdb
+C:\Users\Administrator\Desktop\OQuery(Jason)\obj\Debug\PostgreDB.frmOracleQuery.resources
+C:\Users\jason.yu1204\Desktop\0719\bin\Debug\PostgreDB.exe.config
+C:\Users\jason.yu1204\Desktop\0719\obj\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Desktop\0719\obj\Debug\PostgreDB.pdb
+C:\Users\jason.yu1204\Desktop\0719\bin\Debug\App.config
+C:\Users\jason.yu1204\Desktop\0719\bin\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Desktop\0719\bin\Debug\PostgreDB.pdb
+C:\Users\jason.yu1204\Desktop\0719\bin\Debug\Npgsql.xml
+C:\Users\jason.yu1204\Desktop\0719\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jason.yu1204\Desktop\0719\obj\Debug\PostgreDB.csprojResolveAssemblyReference.cache
+C:\Users\jason.yu1204\Desktop\0719\obj\Debug\PostgreDB.frmMain.resources
+C:\Users\jason.yu1204\Desktop\0719\obj\Debug\PostgreDB.frmOracleQuery.resources
+C:\Users\jason.yu1204\Desktop\0719\obj\Debug\PostgreDB.Properties.Resources.resources
+C:\Users\jason.yu1204\Desktop\0719\obj\Debug\PostgreDB.csproj.GenerateResource.Cache
+C:\Users\jason.yu1204\Desktop\0719\obj\Debug\PostgreDB.exe.licenses
+C:\Users\jason.yu1204\Desktop\2018 Jason\bin\Debug\PostgreDB.exe.config
+C:\Users\jason.yu1204\Desktop\2018 Jason\obj\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Desktop\2018 Jason\obj\Debug\PostgreDB.pdb
+C:\Users\jason.yu1204\Desktop\2018 Jason\bin\Debug\App.config
+C:\Users\jason.yu1204\Desktop\2018 Jason\bin\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Desktop\2018 Jason\bin\Debug\PostgreDB.pdb
+C:\Users\jason.yu1204\Desktop\2018 Jason\obj\Debug\PostgreDB.frmMain.resources
+C:\Users\jason.yu1204\Desktop\2018 Jason\obj\Debug\PostgreDB.frmOracleQuery.resources
+C:\Users\jason.yu1204\Desktop\2018 Jason\obj\Debug\PostgreDB.Properties.Resources.resources
+C:\Users\jason.yu1204\Desktop\2018 Jason\obj\Debug\PostgreDB.csproj.GenerateResource.Cache
+C:\Users\jason.yu1204\Desktop\2018 Jason\obj\Debug\PostgreDB.exe.licenses
+C:\Users\jason.yu1204\Desktop\2018 Jason\obj\Debug\PostgreDB.csprojResolveAssemblyReference.cache
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\bin\Debug\App.config
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\bin\Debug\PostgreDB.exe.config
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\bin\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\bin\Debug\PostgreDB.pdb
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\obj\Debug\PostgreDB.csprojAssemblyReference.cache
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\obj\Debug\PostgreDB.frmMain.resources
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\obj\Debug\PostgreDB.frmOracleQuery.resources
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\obj\Debug\PostgreDB.Properties.Resources.resources
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\obj\Debug\PostgreDB.csproj.GenerateResource.cache
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\obj\Debug\PostgreDB.exe.licenses
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\obj\Debug\PostgreDB.csproj.CoreCompileInputs.cache
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\obj\Debug\PostgreDB.csproj.CopyComplete
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\obj\Debug\PostgreDB.exe
+C:\Users\jason.yu1204\Desktop\C#\from 開發機器 mes-dts\2018 Jason\obj\Debug\PostgreDB.pdb
+C:\Users\Administrator\Desktop\OQuery OK\bin\Debug\App.config
+C:\Users\Administrator\Desktop\OQuery OK\bin\Debug\PostgreDB.exe.config
+C:\Users\Administrator\Desktop\OQuery OK\bin\Debug\PostgreDB.exe
+C:\Users\Administrator\Desktop\OQuery OK\bin\Debug\PostgreDB.pdb
+C:\Users\Administrator\Desktop\OQuery OK\obj\Debug\PostgreDB.frmMain.resources
+C:\Users\Administrator\Desktop\OQuery OK\obj\Debug\PostgreDB.frmOracleQuery.resources
+C:\Users\Administrator\Desktop\OQuery OK\obj\Debug\PostgreDB.Properties.Resources.resources
+C:\Users\Administrator\Desktop\OQuery OK\obj\Debug\PostgreDB.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\OQuery OK\obj\Debug\PostgreDB.exe.licenses
+C:\Users\Administrator\Desktop\OQuery OK\obj\Debug\PostgreDB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OQuery OK\obj\Debug\PostgreDB.csproj.CopyComplete
+C:\Users\Administrator\Desktop\OQuery OK\obj\Debug\PostgreDB.exe
+C:\Users\Administrator\Desktop\OQuery OK\obj\Debug\PostgreDB.pdb
+C:\Users\Administrator\Desktop\OQuery OK\obj\Debug\PostgreDB.csprojAssemblyReference.cache
